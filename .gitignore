@@ -1,0 +1,30 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Build artifacts
+bin/
+lib/
+build/
+*.so
+*.dll
+*.dylib
+
+# Generated documentation
+doc/html/
+doc/latex/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Executables
+*.exe
+
+# Miscellaneous
+*.log
+*.swp
+
